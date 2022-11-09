@@ -18,4 +18,4 @@
   Apaixonado por tecnologia 🖥️
   
   ## E-mail:
-  - [criando infinite Scroll - React Native](https://account.microsoft.com/?ref=MeControl)<br/>
+  - [criando infinite Scroll - React Native](Vinicius_melomattos@hotmail.com)<br/>
