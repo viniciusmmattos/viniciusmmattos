@@ -1,14 +1,15 @@
-### Olá eu sou o Vinicius Mattos ✋
+
+### Olá! Eu sou o Vinicius Mattos ✋
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinimattos__)
+
+![Vinicius Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmmattos&show_icons=true&theme=dracula)
+
+## Tecnologias que utilizo no meu dia 
 
 
-[
 
 
-
-
-
-
-### Hi there 👋
 
 <!--
 **viniciusmmattos/viniciusmmattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
