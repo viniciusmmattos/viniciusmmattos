@@ -25,7 +25,7 @@
 <img olign="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <div style="display: inline_block"><br/>
   
-  in love with technology 🖥️
+ 🖥️🖥️
   
   ## E-mail:
   - Vinicius_melomattos@hotmail.com<br/>
