@@ -15,7 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=viniciusmmattos&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmmattos&exclude_repo=github-readme-stats,viniciusmmattos.github.io)](https://github.com/viniciusmmattos/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniciusmmattos&repo=github-readme-stats)](https://github.com/viniciusmmattos/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia!!!
 
