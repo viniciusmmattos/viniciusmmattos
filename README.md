@@ -5,7 +5,7 @@
 
 ![Vinicius Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmmattos&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmmattos&layout=compact)](https://github.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmmattos&layout=compact)](https://github.com/viniciusmmattos/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia a dia!!!
 
