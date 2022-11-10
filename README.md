@@ -3,8 +3,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinimattos__)
 
-![Vinicius Mattos GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmmattos&show_icons=true&theme=dracula)
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=viniciusmmattos&show_icons=true&theme=dark"
